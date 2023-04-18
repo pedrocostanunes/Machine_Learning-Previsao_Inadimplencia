@@ -1,6 +1,5 @@
-from fastapi import FastAPI
-
 import pandas as pd
+from fastapi import FastAPI
 
 app = FastAPI()
 
@@ -28,10 +27,8 @@ def previsao_modelo(idade, salario, situacao_moradia, tempo_trabalho,
     }
 
     dados = pd.DataFrame(dados)
-
     dados = one_hot_enc.transform(dados)
     dados_transformados = pd.DataFrame(dados, columns=one_hot_enc.get_feature_names_out())
-
     dados_transformados = scaler.transform(dados_transformados)
     dados_transformados = pd.DataFrame(dados_transformados, columns = one_hot_enc.get_feature_names_out())
     return {'result': modelo.predict(dados_transformados)[0],
