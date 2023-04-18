@@ -7,10 +7,10 @@ Este projeto tem como objetivo construir um modelo de machine learning que pode 
 
 O trabalho pode ser entendido em 4 etapas:
 
-- **[SQL]** - Querys para unir e exportar os dados bancários a serem usados no modelo de ML
-- **[Python]** - Análise e Limpeza de dados; construção de modelo de Machine Learning para previsão de inadimplência
-- **[API]** - Criação de API RESTful com o fastAPI para exportar o modelo para o PowerBI
-- **[Dashboard]** - Confecção de dashboard com termômetro de inadimplência e KPIs relevantes
+- **[SQL](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/SQL)** - Querys para unir e exportar os dados bancários a serem usados no modelo de ML
+- **[Python](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/Python)** - Análise e Limpeza de dados; construção de modelo de Machine Learning para previsão de inadimplência
+- **[API]https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/API)** - Criação de API RESTful com o fastAPI para exportar o modelo para o PowerBI
+- **[Dashboard](Em construção)** - Confecção de dashboard com termômetro de inadimplência e KPIs relevantes
 
 *obs.: pode ser considerada uma etapa extra a criação de logotipo e identidade visual da empresa fictícia "Finance Cash"*
 
