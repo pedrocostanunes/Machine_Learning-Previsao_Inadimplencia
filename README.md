@@ -17,7 +17,7 @@ O trabalho pode ser entendido em 4 etapas:
 ## Tecnologias Utilizadas neste Projeto
 
 **Etapa SQL**
-- [Microsoft SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-2019)
+- [MySQL](https://www.mysql.com/)
 
 **Etapa Python**
 - [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR)
