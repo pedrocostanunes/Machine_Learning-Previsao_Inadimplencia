@@ -1,5 +1,4 @@
 # Construíndo modelo de ML para previsão de inadimplência
-*[Nota] **[Clique aqui](https://app.powerbi.com/links/V7ujE9wng9?ctid=0343411f-9443-415f-a0fb-1d1ab82ca677&pbi_source=linkShare)** para visualizar o dashboard*
 
 Olá! Bem-vinde!
 
