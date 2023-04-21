@@ -1,5 +1,5 @@
 # Construíndo modelo de ML para previsão de inadimplência
-*(nota: projeto em construção)*
+*[Nota] **[Clique aqui](https://app.powerbi.com/links/V7ujE9wng9?ctid=0343411f-9443-415f-a0fb-1d1ab82ca677&pbi_source=linkShare)** para visualizar o dashboard*
 
 Olá! Bem-vinde!
 
@@ -10,9 +10,9 @@ O trabalho pode ser entendido em 4 etapas:
 - **[SQL](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/SQL)** - Querys para unir e exportar os dados bancários a serem usados no modelo de ML
 - **[Python](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/Python)** - Análise e Limpeza de dados; construção de modelo de Machine Learning para previsão de inadimplência
 - **[API](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/API)** - Criação de API RESTful com o fastAPI para exportar o modelo para o PowerBI
-- **[Dashboard]***(Em construção)* - Confecção de dashboard com termômetro de inadimplência e KPIs relevantes
+- **[Dashboard](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/Dashboard)** - Confecção de dashboard com termômetro de inadimplência e KPIs relevantes
 
-*obs.: pode ser considerada uma etapa extra a criação de logotipo e identidade visual da empresa fictícia "Finance Cash"*
+*[Etapa Extra](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/Design) criação de logotipo e identidade visual da empresa fictícia "Finance Cash"*
 
 ## Tecnologias Utilizadas neste Projeto
 
