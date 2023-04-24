@@ -35,14 +35,14 @@ O trabalho pode ser entendido em 4 etapas:
 - **[API](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/API)** - Criação de API RESTful com o fastAPI para exportar o modelo para o PowerBI
 - **[Dashboard](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/Dashboard)** - Confecção de dashboard com termômetro de inadimplência e KPIs relevantes para a análise
 
-*[Etapa Extra](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/Design) criação de logotipo e identidade visual da empresa fictícia "Finance Cash"*
-
 <br>
 <div align="center" >
 <img src="Dashboard/[preview]dashboard.gif" width="620">
 </img>
 </div>
 <br>
+
+*[Etapa Extra](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/Design) criação de logotipo e identidade visual da empresa fictícia "Finance Cash"*
 
 ## Tecnologias Utilizadas neste Projeto
 
