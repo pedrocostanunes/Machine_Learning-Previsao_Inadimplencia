@@ -24,13 +24,6 @@
     </a>
 </div>
 
-<br>
-<div align="center" >
-<img src="Dashboard/[preview]dashboard.gif" width="620">
-</img>
-</div>
-<br>
-
 Olá! Bem-vinde!
 
 Este projeto tem como objetivo construir um modelo de machine learning que pode predizer, com base em dados bancários de clientes da empresa Finance Cash (empresa fictícia), se um determinado cliente pode ou não se tornar inadimplente. A necessidade deste trabalho surgiu de um *Desafio de Data Science e Análise de Dados* do curso de Data Science da Alura, onde também foi fornecida a base de dados com as informações bancárias de cerca de 30 mil clientes.  
@@ -43,6 +36,13 @@ O trabalho pode ser entendido em 4 etapas:
 - **[Dashboard](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/Dashboard)** - Confecção de dashboard com termômetro de inadimplência e KPIs relevantes para a análise
 
 *[Etapa Extra](https://github.com/pedrocostanunes/Machine_Learning-Previsao_Inadimplencia/tree/main/Design) criação de logotipo e identidade visual da empresa fictícia "Finance Cash"*
+
+<br>
+<div align="center" >
+<img src="Dashboard/[preview]dashboard.gif" width="620">
+</img>
+</div>
+<br>
 
 ## Tecnologias Utilizadas neste Projeto
 
